@@ -1,0 +1,18 @@
+[
+  {
+    "TestEndTime": "2021/10/13 P.M. 09:32:29",
+    "TestLength": 1,
+    "TotalChars": 353,
+    "GoodChars": 346,
+    "TotalBack": 4,
+    "WrongWords": ["them", "information"],
+    "WrongChars": [
+      "e",
+      "t",
+      "o",
+      "r",
+      "l",
+      "o",
+      "n"
+    ]
+  }   
